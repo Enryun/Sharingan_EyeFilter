@@ -1,13 +1,10 @@
-#  ARContactLenses Demo
+#  AREyes Sharingan Filter 
 This is a simple app used to describe the process of working with ARKit face tracking technology and explaining some basic concepts around it.
 
-The purpose of this app is to change the color of the user’s iris simulating that they are wearing colored contact lenses. It looks like the following example:
+It looks like the following example:
 
-![Contact lenses example](https://user-images.githubusercontent.com/40211551/55898392-15be8c80-5b88-11e9-814e-94fe3d53ad10.gif)
+https://user-images.githubusercontent.com/45484154/229336696-91285181-bf94-4ac5-917f-a51f7a4c89ce.mp4
 
-## About
-- Developed for iOS 12   
-- Using [ARKit 2](https://developer.apple.com/arkit/)  and [Swift 4.2](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 
 ## Prerequisites
 - Xcode 10 or later.
